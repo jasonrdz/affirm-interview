@@ -1,0 +1,26 @@
+merchant_id,merchant_name,vertical,avg_aov,has_promo_program,integration_date,avg_monthly_checkouts
+M001,TechHaven,electronics,620,True,2023-02-16,4200
+M002,CircuitEdge,electronics,480,False,2020-06-18,3100
+M003,PixelPeak,electronics,950,True,2023-08-15,1800
+M004,NestCraft,home_furnishing,1100,True,2022-09-05,2600
+M005,UrbanRoost,home_furnishing,780,True,2020-12-20,1900
+M006,ComfortLine,home_furnishing,540,False,2022-12-19,2200
+M007,WanderBook,travel,1800,True,2020-01-01,2200
+M008,JetSetGo,travel,2200,False,2022-01-30,1300
+M009,SkyTrail,travel,1400,True,2022-02-08,1700
+M010,VitalCare,healthcare,1600,True,2023-03-12,1200
+M011,ClearView Dental,healthcare,2400,False,2021-04-20,700
+M012,MediFlex,healthcare,900,True,2020-05-14,1700
+M013,ThreadLux,fashion,220,False,2022-02-22,5500
+M014,UrbanStitch,fashion,180,True,2022-03-31,6200
+M015,Velvet & Vine,fashion,340,False,2020-07-19,3800
+M016,StyleNova,fashion,150,True,2020-03-29,7000
+M017,IronPulse Fitness,fitness,480,True,2020-08-31,1400
+M018,FlexForm,fitness,320,False,2024-04-20,2100
+M019,PeakGear,fitness,700,True,2021-03-09,900
+M020,AutoVault,auto_parts,550,False,2022-02-08,1600
+M021,DriveLine Parts,auto_parts,380,True,2020-07-22,2300
+M022,Torque Supply,auto_parts,720,False,2022-04-22,1100
+M023,MotoEdge,auto_parts,460,True,2020-04-10,1400
+M024,BrightSmile Ortho,healthcare,3200,True,2023-06-08,500
+M025,GlowUp Beauty,fashion,120,False,2020-02-27,8000
